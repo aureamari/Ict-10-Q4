@@ -5,33 +5,33 @@
     <meta name=”viewport” content=”width=device-width, initial-scale=1.0”>
     <title>Profile</title>
     <style>
-        Body {
+        body {
             Font-family: Arial, sans-serif;
             Margin: 0;
             Padding: 0;
             Text-align: center;
         }
-        Nav {
+        nav {
             Background-color: #033047;
             Padding: 15px;
         }
-        Nav a {
+        nav a {
             Color: white;
             Text-decoration: none;
             Margin: 0 15px;
             Font-size: 18px;
         }
-        Nav a:hover {
+        nav a:hover {
             Text-decoration: underline;
         }
-        Header {
+        header {
             Background-color: #D9D9D9;
             Padding: 20px;
         }
-        Main {
+        main {
             Padding: 20px;
         }
-        Footer {
+        footer {
             Background-color: #033047;
             Color: #F4F3EE;
             Padding: 10px;
@@ -82,11 +82,11 @@
     </header>
 
     <nav>
-        <a href="file:///C:/Users/PC/Desktop/Aurea/JACOSALEM_WebpageQ45.html">Home</a>
-        <a href="file:///C:/Users/PC/Desktop/Aurea/JACOSALEM_WebpageQ4.html">Profile</a>
-        <a href="file:///C:/Users/PC/Desktop/Aurea/JACOSALEM_WebpageQ42.html">Family</a>
-        <a href="file:///C:/Users/PC/Desktop/Aurea/JACOSALEM_WebpageQ43.html">Specialization</a>
-        <a href="file:///C:/Users/PC/Desktop/Aurea/JACOSALEM_WebpageQ44.html">School Life</a>
+        <a href=index.html>Home</a>
+        <a href="profile.html">Profile</a>
+        <a href="family.html">Family</a>
+        <a href="spec.html">Specialization</a>
+        <a href="school-life.html">School Life</a>
     </nav>
 
     <div class="container">
